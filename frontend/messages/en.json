@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "home": "Home",
+    "resources": "Resources",
+    "about": "About",
+    "search_placeholder": "Search resources...",
+    "search_aria": "Search resources",
+    "logo_aria": "HOPE Immigrant Resource Hub – Home",
+    "logo_tagline": "A ministry of Igreja ONDA DURA"
+  },
+  "hero": {
+    "highlight": "Support",
+    "badge": "🌍 Free Resources for Immigrants in Portugal",
+    "heading": "The HOPE that dwells within us, shared with those in need.",
+    "subtitle": "This HOPE's section that brings together essential public information, social services, and community resources across 10 life categories — in one place, free, for everyone.",
+    "cta_browse": "Browse All Resources →",
+    "cta_urgent": "🚨 Urgent Help",
+    "stat_categories": "Resource Categories",
+    "stat_resources": "Verified Resources",
+    "stat_free_value": "Free",
+    "stat_free": "Always & Forever"
+  },
+  "urgent_banner": {
+    "title": "Need immediate help?",
+    "emergency": "Emergency line",
+    "victim": "Victim support",
+    "domestic": "Domestic violence"
+  },
+  "categories_section": {
+    "heading": "Here you can find everything you need.",
+    "subtitle": "Choose a category to explore verified resources, organizations, and contacts available to help you."
+  },
+  "about_strip": {
+    "highlight": "HOPE",
+    "heading": "Why HOPE?",
+    "body": "Navigating a new country is challenging. Finding the right help shouldn't be. This HOPE page centralizes public information from government agencies, NGOs, and community organizations so you can focus on building your life.",
+    "cta": "Learn More About HOPE →",
+    "feature_free_title": "Always Free",
+    "feature_free_text": "Every resource is free to access, always.",
+    "feature_verified_title": "Verified",
+    "feature_verified_text": "Information sourced from official organizations.",
+    "feature_multilang_title": "Multi-language",
+    "feature_multilang_text": "Resources available in multiple languages.",
+    "feature_updated_title": "Up to Date",
+    "feature_updated_text": "Continuously maintained and improved."
+  },
+  "breadcrumb": {
+    "home": "Home"
+  },
+  "search": {
+    "page_title": "Find Resources",
+    "page_subtitle": "Search across all categories to find the help you need.",
+    "breadcrumb": "Search Resources",
+    "placeholder": "Search by name, organization, or keyword...",
+    "filter_all": "All",
+    "filter_urgent": "🚨 Urgent Only",
+    "results_found": "{count} result found",
+    "results_found_plural": "{count} results found",
+    "results_for": "for \"{query}\"",
+    "no_results_title": "No resources found",
+    "no_results_body": "Try a different search term or remove some filters.",
+    "clear_filters": "Clear filters"
+  },
+  "about": {
+    "page_title": "About HOPE",
+    "page_subtitle": "<< Details about Hope >>",
+    "breadcrumb": "About",
+    "mission_title": "Our Mission",
+    "mission_body": "<< Hope's Mission >>",
+    "different_title": "What Makes HOPE Different",
+    "emergency_title": "🚨 Emergency Contact Numbers",
+    "emergency_services": "Emergency Services",
+    "emergency_apav": "APAV – Victim Support",
+    "emergency_dv": "Domestic Violence Hotline",
+    "emergency_acm": "ACM – Migrant Support Line",
+    "emergency_social": "Social Security Info Line",
+    "cta_title": "Ready to Find Help?",
+    "cta_body": "Browse our resource categories and find the support you need today.",
+    "cta_browse": "Browse Categories →",
+    "cta_search": "Search Resources",
+    "stat_categories": "Resource Categories",
+    "stat_resources": "Verified Resources",
+    "stat_languages": "Languages Covered",
+    "stat_free": "Free to Use",
+    "feature_free_title": "Completely Free",
+    "feature_free_desc": "All information is free to access, always. No registration required.",
+    "feature_verified_title": "Verified Information",
+    "feature_verified_desc": "Resources sourced from official government, NGO, and community organizations.",
+    "feature_multilang_title": "Multi-language Access",
+    "feature_multilang_desc": "Resources from organizations serving users in many languages.",
+    "feature_updated_title": "Regularly Updated",
+    "feature_updated_desc": "Our team continuously adds and verifies resources to keep the information current.",
+    "feature_privacy_title": "Privacy Respecting",
+    "feature_privacy_desc": "No tracking, no registration, no data collection. Your privacy matters.",
+    "feature_mobile_title": "Works Everywhere",
+    "feature_mobile_desc": "Optimized for mobile and desktop — use it wherever you are."
+  },
+  "category_page": {
+    "breadcrumb_home": "Home",
+    "resources_available": "{count} resources available",
+    "urgent_count": "🚨 {count} urgent",
+    "urgent_section": "Urgent Resources",
+    "all_resources": "All Resources",
+    "no_resources_title": "No resources yet",
+    "no_resources_body": "Resources for this category will be added soon.",
+    "back": "← Back to All Categories"
+  },
+  "footer": {
+    "logo_tagline": "A ministry of Igreja ONDA DURA",
+    "tagline": "This HOPE's section that brings together essential public information, social services, and community resources across 10 life categories — in one place, free, for everyone.",
+    "categories": "Categories",
+    "platform": "Platform",
+    "emergency": "Emergency",
+    "nav_home": "Home",
+    "nav_resources": "All Resources",
+    "nav_about": "About",
+    "nav_urgent": "🚨 Urgent Help",
+    "emergency_112": "112 – Emergency",
+    "emergency_apav": "116 006 – APAV",
+    "emergency_dv": "800 202 148 – DV Line",
+    "copyright": "© {year} HOPE – Immigrant Resource Hub. Free to use.",
+    "built_with": "Built with ❤️ for immigrants in Portugal"
+  },
+  "resource_card": {
+    "visit": "Visit Site →",
+    "urgent": "🚨 Urgent",
+    "email": "✉️ Email"
+  },
+  "category_card": {
+    "resource_count_one": "1 resource",
+    "resource_count_other": "{count} resources"
+  },
+  "language_switcher": {
+    "label": "Language",
+    "switch_en": "Switch to English",
+    "switch_pt": "Switch to Portuguese"
+  },
+  "static_categories": {
+    "food": "Food & Basic Needs",
+    "food-desc": "Food banks, emergency food assistance, and basic supplies.",
+    "health": "Physical & Mental Health",
+    "health-desc": "Healthcare, mental health, and wellness services.",
+    "housing": "Housing & Emergency Accommodation",
+    "housing-desc": "Emergency shelters and housing assistance.",
+    "employment": "Employment, Training & Diplomas",
+    "employment-desc": "Jobs, training, and diploma recognition.",
+    "documentation": "Documentation & Legalization",
+    "documentation-desc": "Residence permits, visas, and legal status.",
+    "financial-support": "Financial Support & Subsidies",
+    "financial-support-desc": "Social benefits and emergency financial aid.",
+    "domestic-violence": "Domestic Violence & Protection",
+    "domestic-violence-desc": "Emergency support, shelters, and legal help.",
+    "education": "Education & Scholarships",
+    "education-desc": "Schools, adult education, and scholarships.",
+    "discrimination": "Discrimination & Social Integration",
+    "discrimination-desc": "Fighting discrimination and building community.",
+    "general-services": "General Services",
+    "general-services-desc": "Translation, legal aid, and community centers."
+  }
+}

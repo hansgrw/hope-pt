@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "home": "Início",
+    "resources": "Recursos",
+    "about": "Sobre",
+    "search_placeholder": "Pesquisar recursos...",
+    "search_aria": "Pesquisar recursos",
+    "logo_aria": "HOPE – Início",
+    "logo_tagline": "Um ministério da Igreja ONDA DURA"
+  },
+  "hero": {
+    "highlight": "Apoio",
+    "badge": "🌍 Informações Gratuitas para Imigrantes em Portugal",
+    "heading": "A ESPERANÇA que habita em nós, partilhada com aqueles que precisam.",
+    "subtitle": "Esta página do HOPE reúne informações públicas essenciais, serviços sociais e recursos comunitários em 10 categorias — num só lugar, grátis, para todos.",
+    "cta_browse": "Ver Todos os Recursos →",
+    "cta_urgent": "🚨 Ajuda Urgente",
+    "stat_categories": "Categorias de Recursos",
+    "stat_resources": "Recursos Verificados",
+    "stat_free_value": "Grátis",
+    "stat_free": "Sempre e Para Sempre"
+  },
+  "urgent_banner": {
+    "title": "Precisa de ajuda imediata?",
+    "emergency": "Linha de emergência",
+    "victim": "Apoio a vítimas",
+    "domestic": "Violência doméstica"
+  },
+  "categories_section": {
+    "heading": "Aqui você encontra tudo do que precisa.",
+    "subtitle": "Escolha uma categoria para explorar recursos verificados, organizações e contactos disponíveis para ajudar."
+  },
+  "about_strip": {
+    "highlight": "HOPE",
+    "heading": "Porquê o HOPE?",
+    "body": "Adaptar-se a um novo país é desafiante. Encontrar a ajuda certa não deveria ser. Esta página do HOPE centraliza informações públicas de organismos governamentais, ONGs e organizações comunitárias para que possa focar-se em construir a sua vida.",
+    "cta": "Saiba Mais Sobre o HOPE →",
+    "feature_free_title": "Sempre Gratuito",
+    "feature_free_text": "Todos os recursos são gratuitos, sempre.",
+    "feature_verified_title": "Verificado",
+    "feature_verified_text": "Informações de organizações oficiais.",
+    "feature_multilang_title": "Multilingue",
+    "feature_multilang_text": "Recursos disponíveis em vários idiomas.",
+    "feature_updated_title": "Atualizado",
+    "feature_updated_text": "Continuamente mantido e melhorado."
+  },
+  "breadcrumb": {
+    "home": "Início"
+  },
+  "search": {
+    "page_title": "Encontrar Recursos",
+    "page_subtitle": "Pesquise em todas as categorias para encontrar a ajuda que precisa.",
+    "breadcrumb": "Pesquisar Recursos",
+    "placeholder": "Pesquisar por nome, organização ou palavra-chave...",
+    "filter_all": "Todos",
+    "filter_urgent": "🚨 Apenas Urgentes",
+    "results_found": "{count} resultado encontrado",
+    "results_found_plural": "{count} resultados encontrados",
+    "results_for": "para \"{query}\"",
+    "no_results_title": "Nenhum recurso encontrado",
+    "no_results_body": "Tente um termo de pesquisa diferente ou remova alguns filtros.",
+    "clear_filters": "Limpar filtros"
+  },
+  "about": {
+    "page_title": "Sobre o HOPE",
+    "page_subtitle": "<< Detalhes sobre o Hope >>",
+    "breadcrumb": "Sobre",
+    "mission_title": "A Nossa Missão",
+    "mission_body": "<< Missão do Hope >>",
+    "different_title": "O Que Torna o HOPE Diferente",
+    "emergency_title": "🚨 Números de Emergência",
+    "emergency_services": "Serviços de Emergência",
+    "emergency_apav": "APAV – Apoio a Vítimas",
+    "emergency_dv": "Linha SOS Violência Doméstica",
+    "emergency_acm": "ACM – Linha de Apoio ao Migrante",
+    "emergency_social": "Linha de Informação da Segurança Social",
+    "cta_title": "Pronto para Encontrar Ajuda?",
+    "cta_body": "Explore as nossas categorias de recursos e encontre o apoio que precisa hoje.",
+    "cta_browse": "Ver Categorias →",
+    "cta_search": "Pesquisar Recursos",
+    "stat_categories": "Categorias de Recursos",
+    "stat_resources": "Recursos Verificados",
+    "stat_languages": "Idiomas Disponíveis",
+    "stat_free": "Gratuito",
+    "feature_free_title": "Completamente Gratuito",
+    "feature_free_desc": "Todas as informações são gratuitas, sempre. Sem registo necessário.",
+    "feature_verified_title": "Informação Verificada",
+    "feature_verified_desc": "Recursos de organismos oficiais do governo, ONGs e organizações comunitárias.",
+    "feature_multilang_title": "Acesso Multilingue",
+    "feature_multilang_desc": "Recursos de organizações que servem utilizadores em vários idiomas.",
+    "feature_updated_title": "Regularmente Atualizado",
+    "feature_updated_desc": "A nossa equipa adiciona e verifica continuamente recursos para manter as informações atuais.",
+    "feature_privacy_title": "Respeita a Privacidade",
+    "feature_privacy_desc": "Sem rastreamento, sem registo, sem recolha de dados. A sua privacidade importa.",
+    "feature_mobile_title": "Funciona em Todo o Lado",
+    "feature_mobile_desc": "Otimizado para telemóvel e computador — use onde estiver."
+  },
+  "category_page": {
+    "breadcrumb_home": "Início",
+    "resources_available": "{count} recursos disponíveis",
+    "urgent_count": "🚨 {count} urgente(s)",
+    "urgent_section": "Recursos Urgentes",
+    "all_resources": "Todos os Recursos",
+    "no_resources_title": "Ainda sem recursos",
+    "no_resources_body": "Os recursos para esta categoria serão adicionados em breve.",
+    "back": "← Voltar a Todas as Categorias"
+  },
+  "footer": {
+    "logo_tagline": "Um ministério da Igreja ONDA DURA",
+    "tagline": "Esta página do HOPE reúne informações públicas essenciais, serviços sociais e recursos comunitários em 10 categorias — num só lugar, grátis, para todos.",
+    "categories": "Categorias",
+    "platform": "Plataforma",
+    "emergency": "Emergência",
+    "nav_home": "Início",
+    "nav_resources": "Todos os Recursos",
+    "nav_about": "Sobre",
+    "nav_urgent": "🚨 Ajuda Urgente",
+    "emergency_112": "112 – Emergência",
+    "emergency_apav": "116 006 – APAV",
+    "emergency_dv": "800 202 148 – Violência Doméstica",
+    "copyright": "© {year} HOPE – Immigrant Resource Hub. Gratuito.",
+    "built_with": "Feito com ❤️ para imigrantes em Portugal"
+  },
+  "resource_card": {
+    "visit": "Visitar Site →",
+    "urgent": "🚨 Urgente",
+    "email": "✉️ Email"
+  },
+  "category_card": {
+    "resource_count_one": "1 recurso",
+    "resource_count_other": "{count} recursos"
+  },
+  "language_switcher": {
+    "label": "Idioma",
+    "switch_en": "Mudar para Inglês",
+    "switch_pt": "Mudar para Português"
+  },
+  "static_categories": {
+    "food": "Alimentação e Necessidades Básicas",
+    "food-desc": "Bancos alimentares, ajuda de emergência e bens essenciais.",
+    "health": "Saúde Física e Mental",
+    "health-desc": "Serviços de saúde, saúde mental e bem-estar.",
+    "housing": "Habitação e Alojamento de Emergência",
+    "housing-desc": "Abrigos de emergência e apoio à habitação.",
+    "employment": "Emprego, Formação e Diplomas",
+    "employment-desc": "Emprego, formação profissional e reconhecimento de diplomas.",
+    "documentation": "Documentação e Legalização",
+    "documentation-desc": "Autorizações de residência, vistos e situação legal.",
+    "financial-support": "Apoio Financeiro e Subsídios",
+    "financial-support-desc": "Benefícios sociais e apoio financeiro de emergência.",
+    "domestic-violence": "Violência Doméstica e Proteção",
+    "domestic-violence-desc": "Apoio de emergência, abrigos e ajuda jurídica.",
+    "education": "Educação e Bolsas de Estudo",
+    "education-desc": "Escolas, educação de adultos e bolsas de estudo.",
+    "discrimination": "Discriminação e Integração Social",
+    "discrimination-desc": "Combate à discriminação e construção de comunidade.",
+    "general-services": "Serviços Gerais",
+    "general-services-desc": "Tradução, apoio jurídico e centros comunitários."
+  }
+}
